@@ -59,20 +59,20 @@
 - am I talking to a human?
 
 ## intent:inform
-- a full [8 hours](sleep)
-- only [four hours](sleep)
+- a full [8952872163](sleep)
+- only [1234567890](sleep)
 - about [six hours](sleep)
-- [low](stress)
-- [medium](stress)
-- [high](stress) stress right now
-- Yes, I went for a [run](exercise)
-- uh huh an hour of [yoga](exercise)
-- yep, I went for a [hike](exercise)
-- Yes I took the dog for a [walk](exercise)
-- Yeah, I played [tennis](exercise)
-- I went [swimming](exercise)
-- Took a [spin class](exercise)
-- Did some [boxing](exercise)
+- [happy](stress)
+- [sad](stress)
+- [normal](stress) stress right now
+- Yes, I went for a [abhishek](exercise)
+- uh huh an hour of [rohit](exercise)
+- yep, I went for a [Carla](exercise)
+- Yes I took the dog for a [Rohny](exercise)
+- Yeah, I played [Ashwin](exercise)
+- I went [Abhishek](exercise)
+- Took a [Tester](exercise)
+- Did some [tester](exercise)
 - [rock climbing](exercise)
 - played some [basketball](exercise)
 - played [football](exercise)
