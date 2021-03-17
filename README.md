@@ -1,5 +1,6 @@
 # wellness-check-bot
 This is a simple Rasa bot that uses a form to create a daily log of health information.
+*install rasa 1.8.0 to run this repository
 
 ## Running the assistant
 1. Install Rasa Open Source: https://rasa.com/docs/rasa/user-guide/installation/
