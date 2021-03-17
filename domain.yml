@@ -15,13 +15,13 @@ entities:
 
 responses:
   utter_greet:
-  - text: "Hi! It's time for your daily wellness check. Tracking healthy habits is a great way to measure your progress over time. Would you like to answer a few questions about your health?"
+  - text: "Hi! I am Meti  a Virtual  Assistant. Please tell me your name"
 
   utter_goodbye:
   - text: "See you tomorrow. Bye!"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: "I am a bot, powered by Dolhintest."
   
   utter_ask_confirm_exercise:
   - text: Did you exercise yesterday? Don't sweat it if you didn't run a marathon - walks count!
